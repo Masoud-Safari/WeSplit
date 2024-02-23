@@ -49,7 +49,7 @@ struct ContentView: View {
                     }
                     .pickerStyle(.segmented)
                 } header: {
-                    Text("Hoe much tip do you want to leave?")
+                    Text("How much tip do you want to leave?")
                 }
                 
                 Section {
